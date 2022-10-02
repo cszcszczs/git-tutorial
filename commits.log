@@ -1,0 +1,92 @@
+commit 1f9799d0bdbbc3f37d7f2661ea26ccc317871f0c
+Author: cszcszczs <lasbolas01@gmail.com>
+Date:   Sat Oct 1 18:15:10 2022 -0500
+
+    Agregando dos parrafos
+
+commit 2d85f9e43ae28f973e7497802cfd2e8bce98b82d
+Merge: a5136bb 2b049ee
+Author: cszcszczs <lasbolas01@gmail.com>
+Date:   Sat Oct 1 18:13:00 2022 -0500
+
+    Resolviendo conflicto en estaciones del anio y fechas de inicio
+
+commit a5136bb2c0c609e2f9746de9cf2d85d708b31631
+Author: cszcszczs <lasbolas01@gmail.com>
+Date:   Sat Oct 1 17:44:31 2022 -0500
+
+    Agregando estaciones del anio con fecha de inicio
+
+commit 2b049ee7d7874d2700915c824b7333e51838d5cb
+Author: cszcszczs <lasbolas01@gmail.com>
+Date:   Sat Oct 1 17:44:31 2022 -0500
+
+    Agregando las estaciones del anio
+
+commit a2c624852833cf198d7213b1ed174d47167ebe4f
+Merge: 7e4a98b 8a3b87f
+Author: cszcszczs <lasbolas01@gmail.com>
+Date:   Mon Sep 26 22:28:47 2022 -0500
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit 8a3b87f1794c5881a319b42cc449956d51c61c08
+Author: cszcszczs <lasbolas01@gmail.com>
+Date:   Mon Sep 26 22:22:21 2022 -0500
+
+    agregando index.js al index.html
+
+commit 7e4a98bb6ef1528ab8c34fbc97fd76a8be005be5
+Author: cszcszczs <lasbolas01@gmail.com>
+Date:   Mon Sep 26 22:19:38 2022 -0500
+
+    agregando styles.css al index.html
+
+commit 62a7849ff0017927967fed6481e2b80666d0b390
+Merge: 4c3e3e7 b07f43c
+Author: cszcszczs <lasbolas01@gmail.com>
+Date:   Mon Sep 26 20:15:33 2022 -0500
+
+    Merge branch 'js'
+
+commit b07f43c9a8837e350addc50b80da7c044aa748f9
+Author: cszcszczs <lasbolas01@gmail.com>
+Date:   Mon Sep 26 20:05:33 2022 -0500
+
+    creando index.js
+
+commit 4c3e3e71e801e6f4f02de8409c86e09573268c8c
+Author: cszcszczs <lasbolas01@gmail.com>
+Date:   Mon Sep 26 19:59:55 2022 -0500
+
+    creando styles.css
+
+commit 19d230c2ce7507889b36866bc5bba00e36035b49
+Author: cszcszczs <lasbolas01@gmail.com>
+Date:   Mon Sep 26 19:55:55 2022 -0500
+
+    creando archivo index.html
+
+commit fe5026fbbe406db912bbecb092e6800e7c99c38c
+Author: cszcszczs <95255496+cszcszczs@users.noreply.github.com>
+Date:   Sat Sep 24 17:15:10 2022 -0500
+
+    Creando licensia del repositorio
+
+commit bad34153f365b73cd47cfd604d1c6a57e2ae6836
+Author: cszcszczs <lasbolas01@gmail.com>
+Date:   Sat Sep 24 16:54:24 2022 -0500
+
+    Agregando mas contenido al README
+
+commit 0632c054e8307cfc43d4ece18aadffd2056b6806
+Author: cszcszczs <lasbolas01@gmail.com>
+Date:   Wed Sep 21 19:51:39 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit 0c7097746cd153f52958327a696730857b73ee6b
+Author: cszcszczs <lasbolas01@gmail.com>
+Date:   Wed Sep 21 19:41:16 2022 -0500
+
+    Primer commit
